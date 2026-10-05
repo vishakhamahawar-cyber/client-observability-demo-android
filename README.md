@@ -69,15 +69,6 @@ Open the project in Android Studio → click **Run**.
 
 ---
 
-## Testing
-
-- Open the app on **two devices** (or one device + the [JS web demo](https://github.com/vishakhamahawar-cyber/client-observability-demo))
-- Both must connect to the **same Session ID**
-- Stats start populating within ~12 seconds of both clients joining
-- Scroll the stats overlay to see all sections
-
----
-
 ## What It Shows
 
 ### Publisher — Video
